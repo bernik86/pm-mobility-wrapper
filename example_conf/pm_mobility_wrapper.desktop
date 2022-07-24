@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=PM Mobility Wrapper
+Comment=Install and remove packages
+# Icon=
+Exec=/home/user/pm_mobility_wrapper/src/main.py
+Type=Application
+Terminal=false
+Categories=System;
+StartupNotify=true
+X-GNOME-UsesNotifications=true
+X-Purism-FormFactor=Workstation;Mobile;
+
