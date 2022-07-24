@@ -64,9 +64,9 @@ Finally, the `Apply` button allows to install/remove all marked packages. Curren
 
 This program is far from final. Here is a list of things that are currently work in progress:
 
-- [] Notification when no packages are found
-- [] Support for more package managers (e.g., `apt` as used on the Librem5)
-- [] Smoothen the scrolling on the PinePhone
-- [] Automatically activate on-screen keyboard on PinePhone
-- [] Currently, actions such as refreshing repos, upgrading the system, and installing packages are performed by executing these commands in an external terminal. Maybe this can be integrated in the GUI.
+- [ ] Notification when no packages are found
+- [ ] Support for more package managers (e.g., `apt` as used on the Librem5)
+- [ ] Smoothen the scrolling on the PinePhone
+- [ ] Automatically activate on-screen keyboard on PinePhone
+- [ ] Currently, actions such as refreshing repos, upgrading the system, and installing packages are performed by executing these commands in an external terminal. Maybe this can be integrated in the GUI.
 
